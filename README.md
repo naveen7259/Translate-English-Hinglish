@@ -35,3 +35,6 @@ sentences = [
 ]
 
 
+## Outout Screenshot
+![image](https://github.com/naveen7259/Translate-English-Hinglish/assets/108933845/d8a1ce53-6324-4ed5-88d4-d8c83e989747)
+
